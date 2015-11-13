@@ -1,6 +1,6 @@
 # Network
 ## Created in Feb. 2015
-#### A simple implementation of a web sever that understand HTTP protocol
+#### A simple implementation of a web sever that understands HTTP protocol
 ##### Compile on comp112-01 server at Tufts CS
 	gcc -g a1.c -lnsl
 ##### Description
